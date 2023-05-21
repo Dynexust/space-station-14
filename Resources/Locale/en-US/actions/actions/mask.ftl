@@ -1,4 +1,4 @@
-action-name-mask = Toggle Mask
-action-description-mask-toggle = Handy, but prevents insertion of pie into your pie hole.
-action-mask-pull-up-popup-message = You pull up your {$mask}.
-action-mask-pull-down-popup-message = You pull down your {$mask}.
+action-name-mask = Перемкнути маску
+action-description-mask-toggle = Зручно, але заважає вставляти пиріг у вашу дірку для пирога.
+action-mask-pull-up-popup-message = Ви надягаєте вашу {$mask}.
+action-mask-pull-down-popup-message = Ви тягнете вниз вашу {$mask}.

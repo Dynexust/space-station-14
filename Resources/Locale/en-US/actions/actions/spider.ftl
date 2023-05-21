@@ -1,5 +1,5 @@
-spider-web-action-name = Spider Web
-spider-web-action-description = Spawns a web that slows your prey down.
-spider-web-action-nogrid = There is no floor under you!
-spider-web-action-success = You place webs around you.
-spider-web-action-fail = You can't place webs here! All cardinal directions already have webs!
+spider-web-action-name = Павутиння
+spider-web-action-description = Створює павутину, яка уповільнює вашу здобич.
+spider-web-action-nogrid = Під вами немає підлоги!
+spider-web-action-success = Ви розміщуєте павутину навколо себе.
+spider-web-action-fail = Ви не можете розмістити павутину тут! Всі сторони вже обплетені павутинням!

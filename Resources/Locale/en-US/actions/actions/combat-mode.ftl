@@ -1,12 +1,12 @@
-action-name-combat = [color=red]Combat Mode[/color]
-action-description-combat = Enter combat mode
+action-name-combat = [color=red]Режим бою[/color]
+action-description-combat = Увімкнути бойовий режим
 
-action-popup-combat-disabled = Combat mode disabled
-action-popup-combat-enabled = Combat mode enabled
+action-popup-combat-disabled = Бойовий режим вимкнено
+action-popup-combat-enabled = Бойовий режим увімкнено
 
 
-action-name-precision = [color=red]Precision mode[/color]
-action-description-precision = Enter precision mode for combat, attacking what is under your cursor.
+action-name-precision = [color=red]Режим точності[/color]
+action-description-precision = Увімкнути режим точності для бою, атакуючи те, що знаходиться під курсором.
 
-action-popup-precision = Precision mode disabled
-action-popup-precision-enabled = Precision mode enabled
+action-popup-precision = Режим точності вимкнено
+action-popup-precision-enabled = Режим точності увімкнено

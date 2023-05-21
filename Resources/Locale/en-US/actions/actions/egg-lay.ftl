@@ -1,6 +1,6 @@
-﻿action-name-lay-egg = Lay egg
-action-description-lay-egg = Uses hunger to lay an egg.
+﻿action-name-lay-egg = Знести яйце
+action-description-lay-egg = Використовує голод, щоб відкласти яйце.
 
-action-popup-lay-egg-user = You lay an egg.
-action-popup-lay-egg-others = {CAPITALIZE(THE($entity))} lays an egg.
-action-popup-lay-egg-too-hungry = You need more food before you can lay another egg!
+action-popup-lay-egg-user = Ви зносите яйце.
+action-popup-lay-egg-others = {CAPITALIZE(THE($entity))} відкладає яйце.
+action-popup-lay-egg-too-hungry = Вам потрібно більше їжі, перш ніж ви зможете знести ще одне яйце!

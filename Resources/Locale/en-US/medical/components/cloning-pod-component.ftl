@@ -1,5 +1,5 @@
-cloning-pod-biomass = It currently has [color=red]{$number}[/color] units of biomass.
+cloning-pod-biomass = Наразі він має [color=red]{$number}[/color] одиниць біомаси.
 
-cloning-pod-component-upgrade-speed = cloning speed
-cloning-pod-component-upgrade-biomass-requirement = biomass requirement
-cloning-pod-component-upgrade-emag-requirement = The card zaps something inside the cloning pod.
+cloning-pod-component-upgrade-speed = швидкість клонування
+cloning-pod-component-upgrade-biomass-requirement = необхідна кількість біомаси
+cloning-pod-component-upgrade-emag-requirement = Карта вимикає щось всередині капсули клонування.
