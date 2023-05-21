@@ -1,2 +1,2 @@
-action-name-honk = Honk
-action-desc-honk = Honk!
+action-name-honk = Гудок
+action-desc-honk = Гудок!

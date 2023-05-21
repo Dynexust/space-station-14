@@ -1,2 +1,2 @@
-action-name-hardsuit = Toggle Helmet
-action-description-hardsuit = Remember to equip the helmet before flinging yourself into space.
+action-name-hardsuit = Перемкнути шолом
+action-description-hardsuit = Не забудьте вдягнути шолом перед тим, як кинутись у космос.

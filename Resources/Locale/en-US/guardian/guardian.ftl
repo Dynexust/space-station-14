@@ -1,29 +1,29 @@
 
 ## Guardian host specific
 
-guardian-created = You feel... Haunted.
-guardian-already-present-invalid-creation = You are NOT re-living that haunting experience!
-guardian-no-actions-invalid-creation = You don't have the ability to host a guardian!
-guardian-activator-empty-invalid-creation = The injector is spent.
-guardian-activator-empty-examine = [color=#ba1919]The injector is spent.[/color]
+Створений охоронцем = Ти відчуваєш себе... моторошно.
+guardian-already-present-invalid-creation = Ви НЕ переживете знову цей МОТОРОШНИЙ досвід!
+guardian-no-actions-invalid-creation = Ви не маєте можливості розмістити охоронця!
+guardian-activator-empty-invalid-creation = Інжектор витрачено.
+guardian-activator-empty-examine = [color=#ba1919]Інжектор витрачено[/color].
 # TODO: Change this once other species can inject it?
-guardian-activator-invalid-target = Only humans can be injected!
-guardian-no-soul = Your guardian has no soul.
-guardian-available = Your guardian now has a soul.
+guardian-activator-invalid-target = Тільки людям можна вводити ін'єкції!
+guardian-no-soul = Ваш охоронець не має душі.
+guardian-available = Ваш охоронець тепер має душу.
 
 # Guardian action
 
-action-name-guardian = Toggle Guardian
-action-description-guardian = Either manifests the guardian or recalls it back into your body
+action-name-guardian = Перемкнути охоронця.
+action-description-guardian = Або показує охоронця, або відкликає його назад у ваше тіло
 
 ## Guardian entity specific
 
-guardian-entity-recall = The guardian vanishes into thin air!
-guardian-entity-taking-damage = Your guardian is taking damage!
+guardian-entity-recall = Охоронець зникає у повітрі!
+guardian-entity-taking-damage = Ваш охоронець отримує пошкодження!
 
 ## Health warnings
-guardian-host-critical-warn = YOUR HOST IS WOUNDED!
-guardian-host-death-warn = YOUR FORM SUCCUMBS TO NONEXISTENCE!
-guardian-death-warn = YOUR BODY IS PIERCED BY SUBATOMIC PAIN AS IT DISINTEGRATES!
-guardian-attack-host = You cannot attack your host.
+guardian-host-critical-warn = ВАШ ГОСПОДАР ПОРАНЕНИЙ!
+guardian-host-death-warn = ТВОЯ ФОРМА ПРИПИНИЛА СВОЄ ІСНУВАННЯ!
+guardian-death-warn = ВАШЕ ТІЛО ПРОНИЗУЄ СУБАТОМНИЙ БІЛЬ, КОЛИ ВОНО РОЗПАДАЄТЬСЯ!
+guardian-attack-host = Ви не можете напасти на свого носія.
 
